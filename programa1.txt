@@ -26,3 +26,8 @@ hacemos un cambio a solicitud de un cliente
 Ralizar cambio desde gitHUb sesión 2
 
 ultimo cambio para el cliente X
+
+Hola soy Manuel Garcia, ya pude entrar y editar para practicar, si me puedes confirmar por favor
+que se vean reflejados los cambios
+gracias
+Saludos
